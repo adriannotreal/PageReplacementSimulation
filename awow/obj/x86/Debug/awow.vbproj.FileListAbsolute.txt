@@ -1,0 +1,45 @@
+c:\users\chuchu\documents\visual studio 2010\Projects\awow\awow\obj\x86\Debug\awow.Form1.resources
+c:\users\chuchu\documents\visual studio 2010\Projects\awow\awow\obj\x86\Debug\awow.Resources.resources
+c:\users\chuchu\documents\visual studio 2010\Projects\awow\awow\obj\x86\Debug\awow.vbproj.GenerateResource.Cache
+c:\users\chuchu\documents\visual studio 2010\Projects\awow\awow\bin\Debug\awow.exe
+c:\users\chuchu\documents\visual studio 2010\Projects\awow\awow\bin\Debug\awow.pdb
+c:\users\chuchu\documents\visual studio 2010\Projects\awow\awow\bin\Debug\awow.xml
+c:\users\chuchu\documents\visual studio 2010\Projects\awow\awow\obj\x86\Debug\awow.exe
+c:\users\chuchu\documents\visual studio 2010\Projects\awow\awow\obj\x86\Debug\awow.xml
+c:\users\chuchu\documents\visual studio 2010\Projects\awow\awow\obj\x86\Debug\awow.pdb
+C:\Users\chuchu\Desktop\awow\awow\obj\x86\Debug\awow.exe
+C:\Users\chuchu\Desktop\awow\awow\obj\x86\Debug\awow.xml
+C:\Users\chuchu\Desktop\awow\awow\obj\x86\Debug\awow.pdb
+C:\Users\chuchu\Desktop\awow\awow\bin\Debug\awow.exe
+C:\Users\chuchu\Desktop\awow\awow\bin\Debug\awow.pdb
+C:\Users\chuchu\Desktop\awow\awow\bin\Debug\awow.xml
+C:\Users\chuchu\Desktop\awow\awow\obj\x86\Debug\awow.Form1.resources
+C:\Users\chuchu\Desktop\awow\awow\obj\x86\Debug\awow.Resources.resources
+C:\Users\chuchu\Desktop\awow\awow\obj\x86\Debug\awow.vbproj.GenerateResource.Cache
+C:\Users\chuchu\Desktop\pawow\awow\obj\x86\Debug\awow.exe
+C:\Users\chuchu\Desktop\pawow\awow\obj\x86\Debug\awow.xml
+C:\Users\chuchu\Desktop\pawow\awow\obj\x86\Debug\awow.pdb
+C:\Users\chuchu\Desktop\pawow\awow\bin\Debug\awow.exe
+C:\Users\chuchu\Desktop\pawow\awow\bin\Debug\awow.pdb
+C:\Users\chuchu\Desktop\pawow\awow\bin\Debug\awow.xml
+C:\Users\chuchu\Desktop\pawow\awow\obj\x86\Debug\awow.Form1.resources
+C:\Users\chuchu\Desktop\pawow\awow\obj\x86\Debug\awow.Resources.resources
+C:\Users\chuchu\Desktop\pawow\awow\obj\x86\Debug\awow.vbproj.GenerateResource.Cache
+C:\Users\Lyndie\Desktop\pawow\awow\obj\x86\Debug\awow.exe
+C:\Users\Lyndie\Desktop\pawow\awow\obj\x86\Debug\awow.xml
+C:\Users\Lyndie\Desktop\pawow\awow\obj\x86\Debug\awow.pdb
+C:\Users\Lyndie\Desktop\pawow\awow\bin\Debug\awow.exe
+C:\Users\Lyndie\Desktop\pawow\awow\bin\Debug\awow.pdb
+C:\Users\Lyndie\Desktop\pawow\awow\bin\Debug\awow.xml
+C:\Users\Lyndie\Desktop\pawow\awow\obj\x86\Debug\awow.Form1.resources
+C:\Users\Lyndie\Desktop\pawow\awow\obj\x86\Debug\awow.Resources.resources
+C:\Users\Lyndie\Desktop\pawow\awow\obj\x86\Debug\awow.vbproj.GenerateResource.Cache
+E:\pawow\awow\obj\x86\Debug\awow.exe
+E:\pawow\awow\obj\x86\Debug\awow.xml
+E:\pawow\awow\obj\x86\Debug\awow.pdb
+E:\pawow\awow\bin\Debug\awow.exe
+E:\pawow\awow\bin\Debug\awow.pdb
+E:\pawow\awow\bin\Debug\awow.xml
+E:\pawow\awow\obj\x86\Debug\awow.Form1.resources
+E:\pawow\awow\obj\x86\Debug\awow.Resources.resources
+E:\pawow\awow\obj\x86\Debug\awow.vbproj.GenerateResource.Cache

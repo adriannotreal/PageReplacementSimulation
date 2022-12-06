@@ -1,0 +1,51 @@
+E:\pawow\awow\bin\Debug\awow.exe
+E:\pawow\awow\bin\Debug\awow.pdb
+E:\pawow\awow\bin\Debug\awow.xml
+E:\pawow\awow\obj\x86\Debug\awow.Form1.resources
+E:\pawow\awow\obj\x86\Debug\awow.Resources.resources
+E:\pawow\awow\obj\x86\Debug\PageReplacement.vbproj.GenerateResource.Cache
+E:\pawow\awow\obj\x86\Debug\awow.exe
+E:\pawow\awow\obj\x86\Debug\awow.xml
+E:\pawow\awow\obj\x86\Debug\awow.pdb
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\obj\x86\Debug\awow.exe
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\obj\x86\Debug\awow.xml
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\obj\x86\Debug\awow.pdb
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\bin\Debug\awow.exe
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\bin\Debug\awow.pdb
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\bin\Debug\awow.xml
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\obj\x86\Debug\awow.Form1.resources
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\obj\x86\Debug\awow.Resources.resources
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\obj\x86\Debug\PageReplacement.vbproj.GenerateResource.Cache
+C:\Users\chuchu\Desktop\Page Replacement Program\awow\obj\x86\Debug\awow.Form2.resources
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\obj\x86\Debug\awow.exe
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\obj\x86\Debug\awow.xml
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\obj\x86\Debug\awow.pdb
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\bin\Debug\awow.exe
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\bin\Debug\awow.pdb
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\bin\Debug\awow.xml
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\obj\x86\Debug\awow.Form1.resources
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\obj\x86\Debug\awow.Form2.resources
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\obj\x86\Debug\awow.Resources.resources
+C:\Users\chuchu\Desktop\MRS\Page Replacement Program\awow\obj\x86\Debug\PageReplacement.vbproj.GenerateResource.Cache
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.exe
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.xml
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.pdb
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\bin\Debug\awow.exe
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\bin\Debug\awow.pdb
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\bin\Debug\awow.xml
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.Form1.resources
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.Form2.resources
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.Resources.resources
+D:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\PageReplacement.vbproj.GenerateResource.Cache
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\bin\Debug\awow.exe
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\bin\Debug\awow.pdb
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\bin\Debug\awow.xml
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\PageReplacement.vbproj.AssemblyReference.cache
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.Form1.resources
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.Form2.resources
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.Resources.resources
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\PageReplacement.vbproj.GenerateResource.cache
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\PageReplacement.vbproj.CoreCompileInputs.cache
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.exe
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.xml
+E:\studs\MarinoRicafrenteSantiago\Page Replacement Program\awow\obj\x86\Debug\awow.pdb
